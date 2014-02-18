@@ -1,0 +1,31 @@
+</div> <!--#end wrapper div -->
+<footer>
+		<div class="footer">
+				<div class="footer1div">
+                        <h3>%Something useful%</h3>
+				</div>
+				<div class="sitemap">
+                        <h3>%SITEMAP%</h3>
+						<div>
+								<a href="/home/">Home</a>
+								<a href="/about/">About</a>
+								<a href="/services/">Services</a>
+						</div>
+						<div>
+								<a href="/partners/">Partners</a>
+								<a href="/customers/">Support</a>
+								<a href="/contact/">Contact</a>
+						</div>
+				</div>
+				<div class="footer3div">
+						<h3>%Somethng will be here%</h3>
+				</div>
+				<div class="footer-logo">
+						<a href="/"><img src="images/footer-logo.png" alt="footer logo"></a>
+						<p>Copyright &copy; 2014</p>
+				</div>
+		</div>
+</footer>
+</body>
+</html>
+

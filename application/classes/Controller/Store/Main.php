@@ -1,0 +1,9 @@
+<?php defined('SYSPATH') or die('No direct script access.');
+
+class Controller_Store_Main extends Controller
+{
+    public function action_index()
+    {
+        $this->response->body('Store Main Page');
+    }
+}
